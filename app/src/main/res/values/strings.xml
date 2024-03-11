@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="skip_btn_outline">My Application</string>
+    <string name="onboarding_image">Onboarding image</string>
+    <string name="skip_btn_text">Пропустить</string>
+    <string name="next_btn_text">Далее</string>
+</resources>
